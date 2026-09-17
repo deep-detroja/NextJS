@@ -13,4 +13,15 @@
 - created /product/[productId]/reviews/[reviewsid] route
 
 ## Catch all segment
-- created /docs/feature
+-means /docs/.../..../..../kuch bhi
+- created /docs/[[...slug]]
+
+## Not Found Page
+-created app/not-found.tsx
+-implemented custom not-found page in /product route
+
+
+## Route Groups
+-created (auth) folder and inside login,forgot password route inside it.
+-using route groups we can access these routes using    / login ✅ instead of /auth/login ❌
+
